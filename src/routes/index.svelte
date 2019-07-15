@@ -35,18 +35,12 @@
 <svelte:head>
 	<title>Sapper project template</title>
 </svelte:head>
-<div class="container">
-	<h1>Great success!</h1>
 
-	<figure>
-		<img alt='Borat' src='great-success.png'>
-		<figcaption>HIGH FIVE!</figcaption>
-	</figure>
+<h1>Great success!</h1>
 
-	<p><strong>Editing test</strong></p>
-	<div class="columns">
-		<div class="column has-text-center">
-			<h2 class="title">Integration bulma</h2>
-		</div>
-	</div>
-</div>
+<figure>
+	<img alt='Borat' src='great-success.png'>
+	<figcaption>HIGH FIVE!</figcaption>
+</figure>
+
+<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
